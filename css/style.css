@@ -1,0 +1,24 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 50px
+}
+h2{
+    font-size: 40px;
+}
+.orange-color span{
+    color: rgb(255, 77, 64);
+}
+.Information{
+
+}
+.Head-Image{
+
+}
+.top-section{
+    display: flex;
+}
