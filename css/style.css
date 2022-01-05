@@ -16,6 +16,11 @@ h2{
 
 .top-section{
     display: flex;
+    background-image: url(/Photos/top-banner.png);
+    background-repeat: no-repeat;
+}
+.middle-section{
+    display: flex;
 }
 .half-width{
     width: 50%;
@@ -25,4 +30,15 @@ h2{
     width: 80%;
     padding-top: 5%;
     
+}
+button{
+    padding: 18px;
+    background-image: linear-gradient(rgb(255, 118, 118),rgb(255, 202, 103));
+    color: white;
+    font-weight: 600;
+    border: none;
+    border-radius: 30px;
+}
+button:hover{
+    background-image: linear-gradient(rgb(255, 193, 78),rgb(255, 233, 107) );
 }
